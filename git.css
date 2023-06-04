@@ -1,4 +1,16 @@
 div{
     color: darkcyan;
     background-color: darksalmon;
+    padding: 10px 20px 10px 20px;
+}
+span{
+    color: blue;
+    background-color: yellow;
+    padding: 30px 30px 30px 30px;
+}
+table, tr, td{
+        padding: 20px 20px 20px 20px;
+        margin: 250px;
+        border: 2px dotted red;
+        background-color: darkgray;
 }
